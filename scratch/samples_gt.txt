@@ -1,0 +1,40 @@
+S-6178	danke , dass sie bei ted waren . vielen dank .
+T-6178	thank you so much for coming to ted . thank you .
+H-6178	-0.09551182389259338	thank you so much for being to ted . thank you .
+S-6419	sie atmete kaum und war blau angelaufen .
+T-6419	and she was barely breathing and she was blue .
+H-6419	-0.3848176598548889	and she was barely breathing and she was running blue
+
+S-994	das ist schon eine relativ beachtliche anzahl von leuten weltweit .
+T-994	there &apos;s already a rather impressive number of people worldwide .
+H-994	-0.2732373774051666	now this already a relatively remarkable number of people worldwide . .
+S-2668	dies ist eine variante einer sache , die gemacht wurde .
+T-2668	this is a variant on something that has been done .
+H-2668	-0.17909887433052063	this is a variation of one that has been done .
+
+S-3728	können sie sich etwas gutes vorstellen , das aus tabak kommt ?
+T-3728	can you imagine something good coming out of tobacco ?
+H-3728	-0.14515511691570282	can you imagine something good coming out of tabak ? ?
+
+S-1188	und natürlich auch , wie nimmt gestaltung einfluss auf die wahrnehmung .
+T-1188	and of course how design affects perception .
+H-1188	-0.3762091398239136	and of course how design is affecting perception
+
+T-2003	you have to be able to cater for the battery of course , and for the network , and that is very complicated .
+H-2003	-0.5618643760681152	you have to communicate normally to battery ; you also have to communicate , and that &apos;s very , very complicated . &quot;
+
+S-1613	es macht großen spaß , auf diese weise musik zu machen , und sie als das publikum haben dann erlebt , wie die musik lebendig kommuniziert .
+T-1613	it &apos;s great fun to make music in this way , and you as the audience experienced how music communicates in a lively way .
+H-1613	-0.20686225593090057	it &apos;s great fun to make music in this way , and you as the audience experienced how music communicates alive .
+
+S-4322	erstens , wir haben den versicherungen die türen eingerannt , und haben tatsächlich für tempt einen apparat bekommen , mit dem er kommunizieren kann – eine stephen hawking-maschine .
+T-4322	one , we battered down the doors of the insurance companies , and we actually got tempt a machine that let him communicate -- a stephen hawking machine .
+H-4322	-0.42223766446113586	one , we injured up the doors &apos; insurance and actually , for tempt got a device that he can communicate with -- -- a stephen hawking machine .
+
+S-1148	das heißt , man hat sich gefunden , dadurch dass man eine gemeinsame sprache gesprochen hat , konnte man miteinander kommunizieren , ist in die gleiche höhle gezogen oder in andere bereiche , hat städte gebildet oder dörfer und hat so &apos; nen stammesgesellschaft sozusagen kreiert .
+T-1148	that means people related to each other because they spoke the same language , they were able to communicate with each other , move into the same cave or another place together , build cities and villages and basically created this tribal society .
+H-1148	-0.404098242521286	that means you found to a common language you had a common language , you were able to communicate with each other , have moved the same cave or the other areas , form cities or create villages like that , tribal society .
+
+S-724	letztes jahr habe ich diese beiden folien gezeigt , um zu veranschaulichen , dass die arktische eiskappe , die für annähernd drei millionen jahre die grösse der unteren 48 staaten hatte , um 40 prozent geschrumpft ist .
+T-724	last year i showed these two slides so that demonstrate that the arctic ice cap , which for most of the last three million years has been the size of the lower 48 states , has shrunk by 40 percent .
+H-724	-0.274515837430954	last year i showed these two slides just to illustrate that the arctic ice cop , which for nearly about the last three million years has been the size of the lower 48 states , has shrunk by 40 percent .
